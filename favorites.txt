@@ -5,6 +5,3 @@ chocolate
 TV
 swimming
 chicken
-cats
-making camp fires
-silence
